@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\nishida.tema\nishida.tema\bin\Debug\net8.0\nishida.tema.exe
+C:\Users\user\source\repos\nishida.tema\nishida.tema\bin\Debug\net8.0\nishida.tema.deps.json
+C:\Users\user\source\repos\nishida.tema\nishida.tema\bin\Debug\net8.0\nishida.tema.runtimeconfig.json
+C:\Users\user\source\repos\nishida.tema\nishida.tema\bin\Debug\net8.0\nishida.tema.dll
+C:\Users\user\source\repos\nishida.tema\nishida.tema\bin\Debug\net8.0\nishida.tema.pdb
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.AssemblyInfo.cs
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.dll
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\refint\nishida.tema.dll
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.pdb
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\nishida.tema.genruntimeconfig.cache
+C:\Users\user\source\repos\nishida.tema\nishida.tema\obj\Debug\net8.0\ref\nishida.tema.dll
